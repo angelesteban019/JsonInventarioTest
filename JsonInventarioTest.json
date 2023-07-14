@@ -1,0 +1,10 @@
+{
+  "Inventario": [
+  {
+    "Serial": "123",
+    "Objeto": "Computador",
+    "Estado": "Activo"
+  }
+  ]
+}
+
